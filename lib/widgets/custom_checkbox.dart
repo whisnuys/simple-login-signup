@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:studi_kasus/theme.dart';
+import '../theme.dart';
 
 class CustomCheckbox extends StatefulWidget {
   @override
@@ -34,6 +34,5 @@ class _CustomCheckboxState extends State<CustomCheckbox> {
             : null,
       ),
     );
-    ;
   }
 }

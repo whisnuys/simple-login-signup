@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "947664829847",
+    "project_id": "simple-login-signup-28bfa",
+    "storage_bucket": "simple-login-signup-28bfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947664829847:android:bfb8d6d4814c2447abd8d2",
+        "android_client_info": {
+          "package_name": "com.whisnuys.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947664829847-t76fmknokone9j1livqp9jh56nbod8c6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgRsdrQWSflsWpUYWRhb2CK1NV5K4_T8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947664829847-t76fmknokone9j1livqp9jh56nbod8c6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "947664829847-361lmrktmvadlot7polc941h3q6gj2vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.whisnuys.simple-login-signup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
